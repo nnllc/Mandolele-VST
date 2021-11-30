@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptSlider" id="HPFiltknb" value="958.00000000"/>
+    <Control type="ScriptSlider" id="LPFiltknb" value="8321.00000000"/>
+    <Control type="ScriptSlider" id="FeelFreqknb" value="482.00000000"/>
+    <Control type="ScriptSlider" id="FeelGainknb" value="21.60000038"/>
+    <Control type="ScriptSlider" id="FeelQknb" value="0.63000000"/>
+    <Control type="ScriptSlider" id="WavesFreqknb" value="5.00000000"/>
+    <Control type="ScriptSlider" id="WavesSmoothknb" value="257.00000000"/>
+    <Control type="ScriptSlider" id="WavesFadeInknb" value="1348.00000000"/>
+    <Control type="ScriptSlider" id="WavesIntenseknb" value="0.23000000"/>
+    <Control type="ScriptSlider" id="ReverbLPknb" value="20000.00000000"/>
+    <Control type="ScriptSlider" id="ReverbHPknb" value="120.00000000"/>
+    <Control type="ScriptSlider" id="ReverbWetknb" value="0.34000000"/>
+    <Control type="ScriptSlider" id="ReverbStereoknb" value="0.50000000"/>
+    <Control type="ScriptSlider" id="ReverbRoomknb" value="0.75000000"/>
+    <Control type="ScriptSlider" id="ReverbDampknb" value="0.40000001"/>
+    <Control type="ScriptSlider" id="FeelFreqknb2" value="20.00000000"/>
+    <Control type="ScriptSlider" id="FeelGainknb2" value="3.00000000"/>
+    <Control type="ScriptSlider" id="FeelQknb2" value="20000.00000000"/>
+    <Control type="ScriptSlider" id="WavesFreqknb2" value="0.30000001"/>
+    <Control type="ScriptSlider" id="WavesFadeInknb2" value="2.00000000"/>
+    <Control type="ScriptSlider" id="DelayMixknb" value="0.04000000"/>
+    <Control type="ScriptSlider" id="WavesIntenseknb2" value="0.30000001"/>
+    <Control type="ScriptSlider" id="FeelFreqknb1" value="1441.00000000"/>
+    <Control type="ScriptSlider" id="ArtGainknb1" value="-18.00000000"/>
+    <Control type="ScriptSlider" id="FeelQknb1" value="1.47000003"/>
+    <Control type="ScriptLabel" id="PRESETS" value="PRESETS"/>
+    <Control type="ScriptButton" id="Guitar1btn" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Attack" value="A"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb" value="0.00000000"/>
+    <Control type="ScriptLabel" id="Release" value="R"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb" value="5000.00000000"/>
+    <Control type="ScriptLabel" id="Gain" value="GAIN"/>
+    <Control type="ScriptSlider" id="Guitar1Gainknb" value="-3.39999866"/>
+    <Control type="ScriptLabel" id="Pan" value="PAN"/>
+    <Control type="ScriptSlider" id="Guitar1Pansld" value="87.20000458"/>
+    <Control type="ScriptButton" id="Guitar2btn" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Attack1" value="A"/>
+    <Control type="ScriptSlider" id="Guitar2Attackknb" value="0.00000000"/>
+    <Control type="ScriptLabel" id="Release1" value="R"/>
+    <Control type="ScriptSlider" id="Guitar2Releaseknb" value="5000.00000000"/>
+    <Control type="ScriptLabel" id="Gain1" value="GAIN"/>
+    <Control type="ScriptSlider" id="Guitar2Gainknb" value="10.00000191"/>
+    <Control type="ScriptLabel" id="Pan1" value="PAN"/>
+    <Control type="ScriptSlider" id="Guitar2Pansld" value="0.00000149"/>
+    <Control type="ScriptButton" id="Guitar3btn" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Attack2" value="A"/>
+    <Control type="ScriptSlider" id="Guitar3Attackknb" value="0.00000000"/>
+    <Control type="ScriptLabel" id="Release2" value="R"/>
+    <Control type="ScriptSlider" id="Guitar3Releaseknb" value="5000.00000000"/>
+    <Control type="ScriptLabel" id="Gain2" value="GAIN"/>
+    <Control type="ScriptSlider" id="Guitar3Gainknb" value="-31.39999962"/>
+    <Control type="ScriptLabel" id="Pan2" value="PAN"/>
+    <Control type="ScriptSlider" id="Guitar3Pansld" value="-81.59999847"/>
+    <Control type="ScriptButton" id="Guitar4btn" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Attack3" value="A"/>
+    <Control type="ScriptSlider" id="Guitar4Attackknb" value="0.00000000"/>
+    <Control type="ScriptLabel" id="Release3" value="R"/>
+    <Control type="ScriptSlider" id="Guitar4Releaseknb" value="5000.00000000"/>
+    <Control type="ScriptLabel" id="Gain3" value="GAIN"/>
+    <Control type="ScriptSlider" id="Guitar4Gainknb" value="-8.29999828"/>
+    <Control type="ScriptLabel" id="Pan3" value="PAN"/>
+    <Control type="ScriptSlider" id="Guitar4Pansld" value="0.00000149"/>
+    <Control type="ScriptLabel" id="Gaintxt" value="GAIN"/>
+    <Control type="ScriptSlider" id="MasterGainknb" value="-9.99999905"/>
+    <Control type="ScriptLabel" id="FretNoise" value="FEEL"/>
+    <Control type="ScriptButton" id="FXFretbutt" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Width" value="ARTIFACTS"/>
+    <Control type="ScriptButton" id="FXWidthbutt" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Feel" value="WIDTH"/>
+    <Control type="ScriptButton" id="FXFeelbutt" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Waves" value="WAVES"/>
+    <Control type="ScriptButton" id="FXWavesbutt" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Reverb" value="REVERB"/>
+    <Control type="ScriptButton" id="FXReverbbutt" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Delay" value="DELAY"/>
+    <Control type="ScriptButton" id="FXDelaybutt" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Feel1" value="FEEL"/>
+    <Control type="ScriptLabel" id="Waves1" value="WAVES"/>
+    <Control type="ScriptLabel" id="Reverb1" value="REVERB"/>
+    <Control type="ScriptLabel" id="Delay1" value="DELAY"/>
+    <Control type="ScriptLabel" id="LP Filter" value="FILTER"/>
+    <Control type="ScriptLabel" id="HP Filter" value="ARTIFACTS"/>
+    <Control type="ScriptLabel" id="FREQ" value="HP"/>
+    <Control type="ScriptLabel" id="FREQ1" value="LP"/>
+    <Control type="ScriptLabel" id="QEQ2" value="Q"/>
+    <Control type="ScriptLabel" id="GainEQ2" value="G"/>
+    <Control type="ScriptLabel" id="FREQ2" value="F"/>
+    <Control type="ScriptLabel" id="FREQ3" value="TIME"/>
+    <Control type="ScriptLabel" id="FREQ4" value="FADE"/>
+    <Control type="ScriptLabel" id="FREQ5" value="FLAT"/>
+    <Control type="ScriptLabel" id="FREQ6" value="MIX"/>
+    <Control type="ScriptLabel" id="FREQ7" value="HP"/>
+    <Control type="ScriptLabel" id="FREQ8" value="LP"/>
+    <Control type="ScriptLabel" id="FREQ9" value="WET"/>
+    <Control type="ScriptLabel" id="FREQ10" value="DAMP"/>
+    <Control type="ScriptLabel" id="FREQ11" value="WIDE"/>
+    <Control type="ScriptLabel" id="FREQ12" value="ROOM"/>
+    <Control type="ScriptLabel" id="FREQ13" value="LP"/>
+    <Control type="ScriptLabel" id="FREQ14" value="HP"/>
+    <Control type="ScriptLabel" id="FREQ15" value="L TIME"/>
+    <Control type="ScriptLabel" id="FREQ16" value="R TIME"/>
+    <Control type="ScriptLabel" id="FREQ17" value="L FB"/>
+    <Control type="ScriptLabel" id="FREQ18" value="R FB"/>
+    <Control type="ScriptLabel" id="FREQ19" value="MIX"/>
+    <Control type="ScriptLabel" id="QEQ3" value="Q"/>
+    <Control type="ScriptLabel" id="GainEQ3" value="G"/>
+    <Control type="ScriptLabel" id="FREQ20" value="F"/>
+  </Content>
+  <MidiAutomation/>
+  <MPEData Enabled="0"/>
+</Preset>
